@@ -1,3 +1,9 @@
+#!/usr/bin/python2.6
+"""
+First example file
+
+@author: dwilson
+"""
 import sys, pygame
 pygame.init()
 
